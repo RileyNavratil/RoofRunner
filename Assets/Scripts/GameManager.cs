@@ -1,6 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
+<<<<<<< Updated upstream
 using UnityEngine;
+=======
+using UnityEngine;
+using UnityEngine.UI;
+>>>>>>> Stashed changes
 
 public class GameManager : MonoBehaviour
 {
@@ -12,11 +17,34 @@ public bool startPlaying;
 public BeatScroller theBS;
 
 public static GameManager instance;
+<<<<<<< Updated upstream
+=======
+
+public int currentScore;
+
+public int scorePerNote = 100;
+public int scorePerGoodNote = 125;
+public int scorePerPerfectNote = 150;
+
+public int currentMultiplier;
+public int multiplierTracker;
+public int [] multiplierThresholds;
+
+public Text scoreText;
+public Text multiText;
+>>>>>>> Stashed changes
 
     // Start is called before the first frame update
     void Start()
     {
+<<<<<<< Updated upstream
         instance = this;
+=======
+        instance = this;
+
+	scoreText.text = "Score: 0";
+	currentMultiplier = 1;
+>>>>>>> Stashed changes
     }
 
     // Update is called once per frame
@@ -37,10 +65,58 @@ public static GameManager instance;
 	public void NoteHit()
 	{
 	Debug.Log("Hit On Time");
+<<<<<<< Updated upstream
+=======
+
+	if(currentMultiplier - 1 < multiplierThresholds.Length)
+	{
+
+	multiplierTracker++;
+
+	if(multiplierThresholds[currentMultiplier - 1] <= multiplierTracker)
+		{
+		multiplierTracker = 0;
+		currentMultiplier++;
+		}
+	}
+
+	multiText.text = "Multiplier: x" + currentMultiplier;
+
+	//currentScore += scorePerNote * currentMultiplier;
+	scoreText.text = "Score: " + currentScore;
+	}
+
+	public void NormalHit()
+	{
+		currentScore += scorePerNote * currentMultiplier;
+		NoteHit();
+	}
+
+	public void GoodHit()
+
+	{
+		currentScore += scorePerGoodNote * currentMultiplier;
+		NoteHit();
+	}
+
+	public void PerfectHit()
+
+	{
+		currentScore += scorePerPerfectNote * currentMultiplier;
+		NoteHit();
+>>>>>>> Stashed changes
 	}
 
 	public void NoteMissed()
 	{
 	Debug.Log("Missed Note");
+<<<<<<< Updated upstream
+=======
+
+	currentMultiplier = 1;
+	multiplierTracker = 0;
+
+	multiText.text = "Multiplier: x" + currentMultiplier;
+>>>>>>> Stashed changes
 	}
 }
