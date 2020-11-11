@@ -24,9 +24,6 @@ public class NoteObject : MonoBehaviour
 			{
 			gameObject.SetActive(false);
 
-<<<<<<< Updated upstream
-			GameManager.instance.NoteHit();
-=======
 			//GameManager.instance.NoteHit();
 
 			if(Mathf.Abs(transform.position.x) > -8.15)
@@ -42,7 +39,6 @@ public class NoteObject : MonoBehaviour
 				Debug.Log("Perfect");
 				GameManager.instance.PerfectHit();
 				}
->>>>>>> Stashed changes
 			}
 		}
     }
