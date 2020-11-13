@@ -30,7 +30,7 @@ public class NoteObject : MonoBehaviour
 				{
 				Debug.Log("Hit");
 				GameManager.instance.NormalHit();
-				} else if(Mathf.Abs(transform.position.x) > -7.95f)
+				} else if(Mathf.Abs(transform.position.y) > -7.95f)
 				{
 				Debug.Log("Good");
 				GameManager.instance.GoodHit();
