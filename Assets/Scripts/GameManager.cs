@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System.Text;
 
 public class GameManager : MonoBehaviour
 {
@@ -24,15 +25,15 @@ public int currentMultiplier;
 public int multiplierTracker;
 public int [] multiplierThresholds;
 
-public Text scoreText;
-public Text multiText;
+public string scoreText;
+public string multiText;
 
     // Start is called before the first frame update
     void Start()
     {
         instance = this;
 
-	scoreText.text = "Score: 0";
+	scoreText = "Score: 0";
 	currentMultiplier = 1;
     }
 
@@ -67,16 +68,18 @@ public Text multiText;
 		}
 	}
 
-	multiText.text = "Multiplier: x" + currentMultiplier;
+	multiText = "Multiplier: x" + currentMultiplier.ToString();
 
 	//currentScore += scorePerNote * currentMultiplier;
-	scoreText.text = "Score: " + currentScore;
+	scoreText = "Score: " + currentScore.ToString();
 	}
 
 	public void NormalHit()
 	{
 		currentScore += scorePerNote * currentMultiplier;
 		NoteHit();
+		Debug.Log(multiText);
+		Debug.Log(scoreText);
 	}
 
 	public void GoodHit()
@@ -100,6 +103,6 @@ public Text multiText;
 	currentMultiplier = 1;
 	multiplierTracker = 0;
 
-	multiText.text = "Multiplier: x" + currentMultiplier;
+	multiText = "Multiplier: x" + currentMultiplier.ToString();
 	}
 }
