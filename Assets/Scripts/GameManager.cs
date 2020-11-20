@@ -14,7 +14,8 @@ public bool startPlaying;
 public BeatScroller theBS;
 
 public static GameManager instance;
-
+public Text scText;
+public Text mxText;
 public int currentScore;
 
 public int scorePerNote = 100;
@@ -27,11 +28,22 @@ public int [] multiplierThresholds;
 
 public string scoreText;
 public string multiText;
+public float totalBeats;
+public float normalHits;
+public float goodHits;
+public float perfectHits;
+public float missedHits;
 
     // Start is called before the first frame update
     void Start()
     {
         instance = this;
+
+	
+		//scoreText.text = "Score: 0";
+		//currentMultiplier = 1;
+
+		totalBeats = FindObjectsOfType<NoteObject>().Length;
 
 	scoreText = "Score: 0";
 	currentMultiplier = 1;
@@ -59,6 +71,10 @@ public string multiText;
 	if(currentMultiplier - 1 < multiplierThresholds.Length)
 	{
 
+	
+	scText = GameObject.FindGameObjectWithTag("ScoreTag").GetComponent<Text>();
+	mxText = GameObject.FindGameObjectWithTag("MultiplierTag").GetComponent<Text>();
+
 	multiplierTracker++;
 
 	if(multiplierThresholds[currentMultiplier - 1] <= multiplierTracker)
@@ -68,10 +84,10 @@ public string multiText;
 		}
 	}
 
-	multiText = "Multiplier: x" + currentMultiplier.ToString();
+	mxText.text = "Multiplier: x" + currentMultiplier.ToString();
 
 	//currentScore += scorePerNote * currentMultiplier;
-	scoreText = "Score: " + currentScore.ToString();
+	scText.text = "Score: " + currentScore.ToString();
 	}
 
 	public void NormalHit()
@@ -80,6 +96,8 @@ public string multiText;
 		NoteHit();
 		Debug.Log(multiText);
 		Debug.Log(scoreText);
+
+		normalHits++;
 	}
 
 	public void GoodHit()
@@ -87,6 +105,8 @@ public string multiText;
 	{
 		currentScore += scorePerGoodNote * currentMultiplier;
 		NoteHit();
+
+		goodHits++;
 	}
 
 	public void PerfectHit()
@@ -94,6 +114,8 @@ public string multiText;
 	{
 		currentScore += scorePerPerfectNote * currentMultiplier;
 		NoteHit();
+
+		perfectHits++;
 	}
 
 	public void NoteMissed()
@@ -104,5 +126,7 @@ public string multiText;
 	multiplierTracker = 0;
 
 	multiText = "Multiplier: x" + currentMultiplier.ToString();
+
+	missedHits++;
 	}
 }
