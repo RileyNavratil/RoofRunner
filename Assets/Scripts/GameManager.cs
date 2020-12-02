@@ -34,6 +34,9 @@ public float goodHits;
 public float perfectHits;
 public float missedHits;
 
+public GameObject resultsScreen;
+public Text percentHitText, normalsText, goodsText, perfectsText, missesText, rankText, finalScoreText;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -60,6 +63,46 @@ public float missedHits;
 			theBS.hasStarted = true;
 
 			theMusic.Play();
+		}
+	} else{
+		if(!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
+		{
+			resultsScreen.SetActive(true);
+			normalsText.text = "" + normalHits;
+			goodsText.text = "" + goodHits;
+			perfectsText.text = "" + perfectHits;
+			missesText.text = "" + missedHits;
+
+			float totalHit = normalHits + goodHits + perfectHits;
+			float percentHit = (totalHit / totalBeats) * 100f;
+
+			percentHitText.text = percentHit.ToString("F1") + "%";
+
+			string rankVal = "F";
+
+			if(percentHit > 40)
+			{
+				rankVal = "D";
+				if(percentHit > 55)
+				{
+					rankVal = "C";
+					if(percentHit > 70)
+					{
+						rankVal = "B";
+						if(percentHit > 85)
+						{
+							rankVal = "A";
+							if(percentHit > 95)
+							{
+								rankVal = "S";
+							}
+						}
+					}
+				}
+			}
+			rankText.text = rankVal;
+
+			finalScoreText.text = currentScore.ToString();
 		}
 	}
     }

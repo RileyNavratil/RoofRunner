@@ -5,13 +5,14 @@ using UnityEngine;
 public class Background : MonoBehaviour
 {
 
-public float beatTempo;
+public float imageTempo;
 
 public bool hasStarted;
     // Start is called before the first frame update
     void Start()
     {
-        beatTempo = beatTempo/60f;
+        imageTempo = imageTempo/60f;
+
     }
 
     // Update is called once per frame
@@ -25,7 +26,7 @@ public bool hasStarted;
 
 }
 else{
-transform.position -= new Vector3(beatTempo * Time.deltaTime, 0.0f, 0.0f) ;
+transform.position -= new Vector3(imageTempo * Time.deltaTime, 0.0f, 0.0f) ;
 }
 
     }
