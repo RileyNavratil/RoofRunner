@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: a7000f5e180854d9b92af1626e25bfbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3969735119509237318
+    second: Yamato_IdleV2_0
+  - first:
+      213: 2540996997009864963
+    second: Yamato_IdleV2_1
+  - first:
+      213: 7556189345735657428
+    second: Yamato_IdleV2_2
+  - first:
+      213: -1151520113036182924
+    second: Yamato_IdleV2_3
+  - first:
+      213: -2685261265319070995
+    second: Yamato_IdleV2_4
+  - first:
+      213: 3289068747620690274
+    second: Yamato_IdleV2_5
+  - first:
+      213: -8902936386297338887
+    second: Yamato_IdleV2_6
+  - first:
+      213: -4903189930018169925
+    second: Yamato_IdleV2_7
+  - first:
+      213: -5984633697607878532
+    second: Yamato_IdleV2_8
+  - first:
+      213: -2975674321182903640
+    second: Yamato_IdleV2_9
+  - first:
+      213: -5856590192648922790
+    second: Yamato_IdleV2_10
+  - first:
+      213: -5547037223562988660
+    second: Yamato_IdleV2_11
+  - first:
+      213: -3594874303136865219
+    second: Yamato_IdleV2_12
+  - first:
+      213: -2734391377573725999
+    second: Yamato_IdleV2_13
+  - first:
+      213: 4509459048190226533
+    second: Yamato_IdleV2_14
+  - first:
+      213: -6974961100768030382
+    second: Yamato_IdleV2_15
+  - first:
+      213: 1685261450234007299
+    second: Yamato_IdleV2_16
+  - first:
+      213: -7175471657789229947
+    second: Yamato_IdleV2_17
+  - first:
+      213: 6268830707114106641
+    second: Yamato_IdleV2_18
+  - first:
+      213: -8865393064533682903
+    second: Yamato_IdleV2_19
+  - first:
+      213: -2988430324728196649
+    second: Yamato_IdleV2_20
+  - first:
+      213: -507737017440209200
+    second: Yamato_IdleV2_21
+  - first:
+      213: -5373723965832722288
+    second: Yamato_IdleV2_22
+  - first:
+      213: -3905935820302285545
+    second: Yamato_IdleV2_23
+  - first:
+      213: 250719929320928531
+    second: Yamato_IdleV2_24
+  - first:
+      213: 1602493239279564651
+    second: Yamato_IdleV2_25
+  - first:
+      213: -2787794105942487060
+    second: Yamato_IdleV2_26
+  - first:
+      213: -2271574145936638147
+    second: Yamato_IdleV2_27
+  - first:
+      213: 5057120068802942043
+    second: Yamato_IdleV2_28
+  - first:
+      213: -3457478201523749826
+    second: Yamato_IdleV2_29
+  - first:
+      213: 7502144581389775112
+    second: Yamato_IdleV2_30
+  - first:
+      213: -8326585599516409859
+    second: Yamato_IdleV2_31
+  - first:
+      213: -4103066903185146646
+    second: Yamato_IdleV2_32
+  - first:
+      213: 5263178076233836546
+    second: Yamato_IdleV2_33
+  - first:
+      213: -3590917278251975495
+    second: Yamato_IdleV2_34
+  - first:
+      213: -6516951631628749529
+    second: Yamato_IdleV2_35
+  - first:
+      213: 7325950347505856557
+    second: Yamato_IdleV2_36
+  - first:
+      213: -2425969291077326298
+    second: Yamato_IdleV2_37
+  - first:
+      213: -1454180526731702364
+    second: Yamato_IdleV2_38
+  - first:
+      213: -6426578789084949001
+    second: Yamato_IdleV2_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yamato_IdleV2_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 28059
+        width: 423
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1524df0faa8e8c0800000000000000
+      internalID: -3969735119509237318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 27367
+        width: 385
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3097b165e4f634320800000000000000
+      internalID: 2540996997009864963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 26658
+        width: 335
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d74a20fc2afcd860800000000000000
+      internalID: 7556189345735657428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25932
+        width: 341
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab2c6ee8af400f0800000000000000
+      internalID: -1151520113036182924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 25213
+        width: 313
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de27a873b190cbad0800000000000000
+      internalID: -2685261265319070995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 24487
+        width: 296
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26925c7899e15ad20800000000000000
+      internalID: 3289068747620690274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 23754
+        width: 302
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e8d4c68a627480800000000000000
+      internalID: -8902936386297338887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 23033
+        width: 277
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb9ef2acbe54fbb0800000000000000
+      internalID: -4903189930018169925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 22326
+        width: 277
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ff372c5f42fca0800000000000000
+      internalID: -5984633697607878532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21585
+        width: 309
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a234ae78f744b6d0800000000000000
+      internalID: -2975674321182903640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 20897
+        width: 315
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59df14df3639bea0800000000000000
+      internalID: -5856590192648922790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 20157
+        width: 315
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b8add807f403b0800000000000000
+      internalID: -5547037223562988660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19443
+        width: 296
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34e8552ed07c1ec0800000000000000
+      internalID: -3594874303136865219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 18728
+        width: 328
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b3de878d7d0ad0800000000000000
+      internalID: -2734391377573725999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 18001
+        width: 315
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560bc88bc11d49e30800000000000000
+      internalID: 4509459048190226533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 17280
+        width: 296
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251dd8275d5f33f90800000000000000
+      internalID: -6974961100768030382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 16573
+        width: 296
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8bde2c50436710800000000000000
+      internalID: 1685261450234007299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 15827
+        width: 264
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f6956b8a9b6c90800000000000000
+      internalID: -7175471657789229947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 15133
+        width: 263
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fd89e705c5ff650800000000000000
+      internalID: 6268830707114106641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 14406
+        width: 276
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925124a8afbc7f480800000000000000
+      internalID: -8865393064533682903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 13686
+        width: 283
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1129af376f686d0800000000000000
+      internalID: -2988430324728196649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 12978
+        width: 270
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f82c6fd724f8f0800000000000000
+      internalID: -507737017440209200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 12245
+        width: 296
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09889873682bc65b0800000000000000
+      internalID: -5373723965832722288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 11543
+        width: 328
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158863e0145bc9c0800000000000000
+      internalID: -3905935820302285545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 10784
+        width: 302
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f845827cba7300800000000000000
+      internalID: 250719929320928531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 10083
+        width: 296
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67393a5c133d3610800000000000000
+      internalID: 1602493239279564651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9369
+        width: 309
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefce50f704cf49d0800000000000000
+      internalID: -2787794105942487060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8649
+        width: 283
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f3c7e795fb970e0800000000000000
+      internalID: -2271574145936638147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7922
+        width: 309
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b549f77a8ef7e2640800000000000000
+      internalID: 5057120068802942043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7202
+        width: 303
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c358be4e19400d0800000000000000
+      internalID: -3457478201523749826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6501
+        width: 309
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801fb5bafb8fc1860800000000000000
+      internalID: 7502144581389775112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5780
+        width: 289
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff0fc6386027c80800000000000000
+      internalID: -8326585599516409859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5034
+        width: 290
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecbcf9f36afe07c0800000000000000
+      internalID: -4103066903185146646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4330
+        width: 283
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208aa8723909a0940800000000000000
+      internalID: 5263178076233836546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3603
+        width: 283
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7afbc2cf7a2ec0800000000000000
+      internalID: -3590917278251975495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2889
+        width: 283
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725bd52f4032f85a0800000000000000
+      internalID: -6516951631628749529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2181
+        width: 263
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d207c39c6010ba560800000000000000
+      internalID: 7325950347505856557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1448
+        width: 270
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a645978c9355ed0800000000000000
+      internalID: -2425969291077326298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 726
+        width: 277
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcdd8f386b1dbe0800000000000000
+      internalID: -1454180526731702364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato_IdleV2_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 18
+        width: 276
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5188b04a430d6a0800000000000000
+      internalID: -6426578789084949001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 048cefe8976da4bb8a411c13802210a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
