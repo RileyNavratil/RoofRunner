@@ -152,7 +152,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -214,12 +214,12 @@ TextureImporter:
       name: Yamato_IdleV2_0
       rect:
         serializedVersion: 2
-        x: 176
-        y: 28059
-        width: 423
-        height: 643
+        x: 0
+        y: 28101
+        width: 1080
+        height: 699
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -235,12 +235,12 @@ TextureImporter:
       name: Yamato_IdleV2_1
       rect:
         serializedVersion: 2
-        x: 181
-        y: 27367
-        width: 385
-        height: 587
+        x: 0
+        y: 27380
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -256,12 +256,12 @@ TextureImporter:
       name: Yamato_IdleV2_2
       rect:
         serializedVersion: 2
-        x: 203
-        y: 26658
-        width: 335
-        height: 621
+        x: 0
+        y: 26663
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: Yamato_IdleV2_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 25932
-        width: 341
-        height: 599
+        x: 0
+        y: 25942
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -298,12 +298,12 @@ TextureImporter:
       name: Yamato_IdleV2_4
       rect:
         serializedVersion: 2
-        x: 220
-        y: 25213
-        width: 313
-        height: 604
+        x: 0
+        y: 25222
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -319,12 +319,12 @@ TextureImporter:
       name: Yamato_IdleV2_5
       rect:
         serializedVersion: 2
-        x: 238
-        y: 24487
-        width: 296
-        height: 611
+        x: 0
+        y: 24502
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -340,12 +340,12 @@ TextureImporter:
       name: Yamato_IdleV2_6
       rect:
         serializedVersion: 2
-        x: 238
-        y: 23754
-        width: 302
-        height: 636
+        x: 0
+        y: 23782
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -361,12 +361,12 @@ TextureImporter:
       name: Yamato_IdleV2_7
       rect:
         serializedVersion: 2
-        x: 238
-        y: 23033
-        width: 277
-        height: 624
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 23062
+        width: 1080
+        height: 720
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.46159667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -382,12 +382,12 @@ TextureImporter:
       name: Yamato_IdleV2_8
       rect:
         serializedVersion: 2
-        x: 244
-        y: 22326
-        width: 277
-        height: 611
+        x: 0
+        y: 22342
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: Yamato_IdleV2_9
       rect:
         serializedVersion: 2
-        x: 212
-        y: 21585
-        width: 309
-        height: 630
+        x: 0
+        y: 21622
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -424,12 +424,12 @@ TextureImporter:
       name: Yamato_IdleV2_10
       rect:
         serializedVersion: 2
-        x: 219
-        y: 20897
-        width: 315
-        height: 585
+        x: 0
+        y: 20902
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -445,12 +445,12 @@ TextureImporter:
       name: Yamato_IdleV2_11
       rect:
         serializedVersion: 2
-        x: 225
-        y: 20157
-        width: 315
-        height: 656
+        x: 0
+        y: 20181
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -466,12 +466,12 @@ TextureImporter:
       name: Yamato_IdleV2_12
       rect:
         serializedVersion: 2
-        x: 225
-        y: 19443
-        width: 296
-        height: 611
+        x: 0
+        y: 19461
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -487,12 +487,12 @@ TextureImporter:
       name: Yamato_IdleV2_13
       rect:
         serializedVersion: 2
-        x: 199
-        y: 18728
-        width: 328
-        height: 624
+        x: 0
+        y: 18741
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -508,12 +508,12 @@ TextureImporter:
       name: Yamato_IdleV2_14
       rect:
         serializedVersion: 2
-        x: 212
-        y: 18001
-        width: 315
-        height: 637
+        x: 0
+        y: 18020
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -529,12 +529,12 @@ TextureImporter:
       name: Yamato_IdleV2_15
       rect:
         serializedVersion: 2
-        x: 212
-        y: 17280
-        width: 296
-        height: 624
+        x: 0
+        y: 17300
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -550,12 +550,12 @@ TextureImporter:
       name: Yamato_IdleV2_16
       rect:
         serializedVersion: 2
-        x: 212
-        y: 16573
-        width: 296
-        height: 598
+        x: 0
+        y: 16580
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -571,12 +571,12 @@ TextureImporter:
       name: Yamato_IdleV2_17
       rect:
         serializedVersion: 2
-        x: 225
-        y: 15827
-        width: 264
-        height: 630
+        x: 0
+        y: 15861
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -592,12 +592,12 @@ TextureImporter:
       name: Yamato_IdleV2_18
       rect:
         serializedVersion: 2
-        x: 232
-        y: 15133
-        width: 263
-        height: 611
+        x: 0
+        y: 15141
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -613,12 +613,12 @@ TextureImporter:
       name: Yamato_IdleV2_19
       rect:
         serializedVersion: 2
-        x: 219
-        y: 14406
-        width: 276
-        height: 611
+        x: 0
+        y: 14422
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -634,12 +634,12 @@ TextureImporter:
       name: Yamato_IdleV2_20
       rect:
         serializedVersion: 2
-        x: 206
-        y: 13686
-        width: 283
-        height: 617
+        x: 0
+        y: 13701
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -655,12 +655,12 @@ TextureImporter:
       name: Yamato_IdleV2_21
       rect:
         serializedVersion: 2
-        x: 219
-        y: 12978
-        width: 270
-        height: 611
+        x: 0
+        y: 12980
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -676,12 +676,12 @@ TextureImporter:
       name: Yamato_IdleV2_22
       rect:
         serializedVersion: 2
-        x: 225
-        y: 12245
-        width: 296
-        height: 636
+        x: 0
+        y: 12260
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -697,12 +697,12 @@ TextureImporter:
       name: Yamato_IdleV2_23
       rect:
         serializedVersion: 2
-        x: 193
-        y: 11543
-        width: 328
-        height: 624
+        x: 0
+        y: 11540
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -718,12 +718,12 @@ TextureImporter:
       name: Yamato_IdleV2_24
       rect:
         serializedVersion: 2
-        x: 225
-        y: 10784
-        width: 302
-        height: 682
+        x: 0
+        y: 10819
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -739,12 +739,12 @@ TextureImporter:
       name: Yamato_IdleV2_25
       rect:
         serializedVersion: 2
-        x: 219
-        y: 10083
-        width: 296
-        height: 631
+        x: 0
+        y: 10099
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -760,12 +760,12 @@ TextureImporter:
       name: Yamato_IdleV2_26
       rect:
         serializedVersion: 2
-        x: 206
-        y: 9369
-        width: 309
-        height: 618
+        x: 0
+        y: 9379
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -781,12 +781,12 @@ TextureImporter:
       name: Yamato_IdleV2_27
       rect:
         serializedVersion: 2
-        x: 232
-        y: 8649
-        width: 283
-        height: 611
+        x: 0
+        y: 8660
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -802,12 +802,12 @@ TextureImporter:
       name: Yamato_IdleV2_28
       rect:
         serializedVersion: 2
-        x: 212
-        y: 7922
-        width: 309
-        height: 637
+        x: 0
+        y: 7939
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -823,12 +823,12 @@ TextureImporter:
       name: Yamato_IdleV2_29
       rect:
         serializedVersion: 2
-        x: 212
-        y: 7202
-        width: 303
-        height: 643
+        x: 0
+        y: 7219
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -844,12 +844,12 @@ TextureImporter:
       name: Yamato_IdleV2_30
       rect:
         serializedVersion: 2
-        x: 206
-        y: 6501
-        width: 309
-        height: 630
+        x: 0
+        y: 6499
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -865,12 +865,12 @@ TextureImporter:
       name: Yamato_IdleV2_31
       rect:
         serializedVersion: 2
-        x: 219
-        y: 5780
-        width: 289
-        height: 605
+        x: 0
+        y: 5779
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -886,12 +886,12 @@ TextureImporter:
       name: Yamato_IdleV2_32
       rect:
         serializedVersion: 2
-        x: 212
-        y: 5034
-        width: 290
-        height: 650
+        x: 0
+        y: 5059
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -907,12 +907,12 @@ TextureImporter:
       name: Yamato_IdleV2_33
       rect:
         serializedVersion: 2
-        x: 219
-        y: 4330
-        width: 283
-        height: 624
+        x: 0
+        y: 4339
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -928,12 +928,12 @@ TextureImporter:
       name: Yamato_IdleV2_34
       rect:
         serializedVersion: 2
-        x: 225
-        y: 3603
-        width: 283
-        height: 649
+        x: 0
+        y: 3619
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -949,12 +949,12 @@ TextureImporter:
       name: Yamato_IdleV2_35
       rect:
         serializedVersion: 2
-        x: 225
-        y: 2889
-        width: 283
-        height: 624
+        x: 0
+        y: 2899
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -970,12 +970,12 @@ TextureImporter:
       name: Yamato_IdleV2_36
       rect:
         serializedVersion: 2
-        x: 232
-        y: 2181
-        width: 263
-        height: 598
+        x: 0
+        y: 2179
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -991,12 +991,12 @@ TextureImporter:
       name: Yamato_IdleV2_37
       rect:
         serializedVersion: 2
-        x: 219
-        y: 1448
-        width: 270
-        height: 637
+        x: 0
+        y: 1459
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1012,12 +1012,12 @@ TextureImporter:
       name: Yamato_IdleV2_38
       rect:
         serializedVersion: 2
-        x: 225
-        y: 726
-        width: 277
-        height: 617
+        x: 0
+        y: 731
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1033,12 +1033,12 @@ TextureImporter:
       name: Yamato_IdleV2_39
       rect:
         serializedVersion: 2
-        x: 219
-        y: 18
-        width: 276
-        height: 605
+        x: 0
+        y: 20
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1053,7 +1053,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 048cefe8976da4bb8a411c13802210a0
+    spriteID: b61861f51297f4794bc9201cce0e3186
     internalID: 0
     vertices: []
     indices: 

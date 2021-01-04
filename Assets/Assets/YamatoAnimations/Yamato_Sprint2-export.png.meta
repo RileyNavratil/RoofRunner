@@ -124,12 +124,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_0
       rect:
         serializedVersion: 2
-        x: 165
-        y: 6595
-        width: 458
-        height: 380
+        x: 0
+        y: 6480
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -145,12 +145,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_1
       rect:
         serializedVersion: 2
-        x: 148
-        y: 5892
-        width: 482
-        height: 366
+        x: 0
+        y: 5760
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -166,12 +166,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_2
       rect:
         serializedVersion: 2
-        x: 183
-        y: 5150
-        width: 422
-        height: 391
+        x: 0
+        y: 5040
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,12 +187,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_3
       rect:
         serializedVersion: 2
-        x: 232
-        y: 4433
-        width: 327
-        height: 394
+        x: 0
+        y: 4320
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,12 +208,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_4
       rect:
         serializedVersion: 2
-        x: 317
-        y: 3734
-        width: 270
-        height: 365
+        x: 0
+        y: 3600
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -229,12 +229,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_5
       rect:
         serializedVersion: 2
-        x: 218
-        y: 2995
-        width: 412
-        height: 387
+        x: 0
+        y: 2880
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_6
       rect:
         serializedVersion: 2
-        x: 186
-        y: 2306
-        width: 440
-        height: 352
+        x: 0
+        y: 2160
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -271,12 +271,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_7
       rect:
         serializedVersion: 2
-        x: 201
-        y: 1550
-        width: 411
-        height: 391
+        x: 0
+        y: 1440
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,12 +292,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_8
       rect:
         serializedVersion: 2
-        x: 281
-        y: 844
-        width: 292
-        height: 379
+        x: 0
+        y: 720
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -313,12 +313,12 @@ TextureImporter:
       name: Yamato_Sprint2-export_9
       rect:
         serializedVersion: 2
-        x: 264
-        y: 116
-        width: 292
-        height: 390
+        x: 0
+        y: 0
+        width: 1080
+        height: 720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
