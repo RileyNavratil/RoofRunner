@@ -18,7 +18,6 @@ namespace SpeedTutorMainMenuSystem
 
         [Header("Levels To Load")]
         public string _newGameButtonLevel;
-        public string MDOne;
         private string levelToLoad;
 
         private int menuNumber;
@@ -249,7 +248,7 @@ namespace SpeedTutorMainMenuSystem
         {
             if (ButtonType == "Yes")
             {
-                SceneManager.LoadScene(MDOne);
+                SceneManager.LoadScene(_newGameButtonLevel);
             }
 
             if (ButtonType == "No")
