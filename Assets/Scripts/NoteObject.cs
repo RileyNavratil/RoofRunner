@@ -16,28 +16,25 @@ public class NoteObject : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        if(Input.GetKeyDown(keyToPress))
-		{
-			if(canBePressed)
-			{
-			gameObject.SetActive(false);
+    void Update() {
+        if(Input.GetKeyDown(keyToPress)){
+			if (canBePressed) {
+				gameObject.SetActive(false);
 
-			GameManager.instance.NoteHit();
+				GameManager.instance.NoteHit();
 
-			if(Mathf.Abs( transform.position.x) > -8.15)
-				{
-				Debug.Log("Bad");
-				GameManager.instance.NormalHit();
-				} else if(Mathf.Abs(transform.position.x) > -7.95f)
-				{
-				Debug.Log("Good");
-				GameManager.instance.GoodHit();
-				} else
-				{
-				Debug.Log("Perfect");
-				GameManager.instance.PerfectHit();
+				if(Mathf.Abs( transform.position.x) > 8.15) {
+					Debug.Log("Bad");
+					Debug.Log(transform.position.x);
+					GameManager.instance.NormalHit();
+				} else if(Mathf.Abs(transform.position.x) > 7.95f) {
+					Debug.Log("Good");
+					Debug.Log(transform.position.x);
+					GameManager.instance.GoodHit();
+				} else {
+					Debug.Log("Perfect");
+					Debug.Log(transform.position.x);
+					GameManager.instance.PerfectHit();
 				}
 
 			}
