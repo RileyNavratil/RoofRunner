@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 22bf75c523acb407399e69eea9dc138a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6601977407613595831
+    second: Yamato just Jump V6 1_0
+  - first:
+      213: 6346373162848058009
+    second: Yamato just Jump V6 1_1
+  - first:
+      213: 2612214825667352494
+    second: Yamato just Jump V6 1_2
+  - first:
+      213: -5779874234590788348
+    second: Yamato just Jump V6 1_3
+  - first:
+      213: 8715575550589303150
+    second: Yamato just Jump V6 1_4
+  - first:
+      213: 4383269050311825625
+    second: Yamato just Jump V6 1_5
+  - first:
+      213: -2865305235616228346
+    second: Yamato just Jump V6 1_6
+  - first:
+      213: -4286529298116990432
+    second: Yamato just Jump V6 1_7
+  - first:
+      213: -7379437643402038031
+    second: Yamato just Jump V6 1_8
+  - first:
+      213: 6910254141174547071
+    second: Yamato just Jump V6 1_9
+  - first:
+      213: 1830612289725796385
+    second: Yamato just Jump V6 1_10
+  - first:
+      213: -5470749296015324824
+    second: Yamato just Jump V6 1_11
+  - first:
+      213: -4411095501308748024
+    second: Yamato just Jump V6 1_12
+  - first:
+      213: -415881589454150667
+    second: Yamato just Jump V6 1_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10596
+        width: 269
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b076f3397fee9b50800000000000000
+      internalID: 6601977407613595831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 9789
+        width: 272
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a71af54c8d21850800000000000000
+      internalID: 6346373162848058009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 9055
+        width: 263
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea759e83b83704420800000000000000
+      internalID: 2612214825667352494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8333
+        width: 299
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40588c8b103c9cfa0800000000000000
+      internalID: -5779874234590788348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7583
+        width: 235
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6974f149c1f3f870800000000000000
+      internalID: 8715575550589303150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6762
+        width: 239
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8dcca4aff74dc30800000000000000
+      internalID: 4383269050311825625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5866
+        width: 185
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c170ab1146c38d0800000000000000
+      internalID: -2865305235616228346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5042
+        width: 179
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aae6a70503384c0800000000000000
+      internalID: -4286529298116990432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4186
+        width: 187
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f430eeaf88f69990800000000000000
+      internalID: -7379437643402038031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3354
+        width: 265
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f728160878726ef50800000000000000
+      internalID: 6910254141174547071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2547
+        width: 277
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1201292bd24a76910800000000000000
+      internalID: 1830612289725796385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1750
+        width: 252
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c9c3208ef314b0800000000000000
+      internalID: -5470749296015324824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 957
+        width: 235
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1b263304a8c2c0800000000000000
+      internalID: -4411095501308748024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamato just Jump V6 1_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 175
+        width: 266
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e5f7d5ed7a3af0800000000000000
+      internalID: -415881589454150667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c1f99e876f0e40dcb46936b95324bf8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

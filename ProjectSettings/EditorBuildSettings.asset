@@ -9,6 +9,14 @@ EditorBuildSettings:
     path: Assets/SpeedTutor_Full_Menu_System/Scenes/MainMenu.unity
     guid: e84c9862265a1104a9d724503d4111aa
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/MallDistrict/MDOne.unity
+=======
+<<<<<<< HEAD
+    path: Assets/MallDistrict/1.unity
+=======
+    path: Assets/MallDistrict/MD1.unity
+>>>>>>> Develop
+>>>>>>> Stashed changes
     guid: 899f868e706c4475585ece631c0ad4ab
   m_configObjects: {}

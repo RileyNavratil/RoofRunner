@@ -33,6 +33,7 @@ public float normalHits;
 public float goodHits;
 public float perfectHits;
 public float missedHits;
+public Animator Animator;
 
 public GameObject resultsScreen;
 public Text percentHitText, normalsText, goodsText, perfectsText, missesText, rankText, finalScoreText;
@@ -52,11 +53,22 @@ public Text percentHitText, normalsText, goodsText, perfectsText, missesText, ra
 	currentMultiplier = 1;
     }
 
+	public void update()
+	{
+	Animator.SetBool("startPlaying", startPlaying);
+	}
+
     // Update is called once per frame
     void Update()
     {
         if(!startPlaying)
 	{
+
+		//public void update()
+		//{
+		//	Animator.SetBool("startPlaying", startPlaying);
+		//}
+
 	if(Input.anyKeyDown)
 		{
 			startPlaying = true;

@@ -4038,7 +4038,7 @@ MonoBehaviour:
   defaultVolume: 0.5
   defaultSen: 4
   defaultInvertY: 0
-  _newGameButtonLevel: MDOne
+  _newGameButtonLevel: MD1
   menuDefaultCanvas: {fileID: 1939101664952978}
   GeneralSettingsCanvas: {fileID: 1053070176235954}
   graphicsMenu: {fileID: 1181362766895746}
